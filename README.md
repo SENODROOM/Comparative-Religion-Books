@@ -4,6 +4,7 @@
 <h1>COMPARATIVE RELIGION BOOKS </h1>
 
 *A curated open library exploring religion through an Islamic lens*
+
 [![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-4CAF50?style=for-the-badge&logo=github)](https://github.com/SENODROOM/ComparativeReligionBooks/pulls)
 [![Library](https://img.shields.io/badge/Format-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](./library)
 [![PRs](https://img.shields.io/badge/PRs-Open-blue?style=for-the-badge)](https://github.com/SENODROOM/ComparativeReligionBooks/pulls)
