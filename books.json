@@ -1,0 +1,9 @@
+{
+  "books": [
+    { "title": "The Alchemist", "author": "Paulo Coelho", "notes": "Self-discovery " },
+    { "title": "Atomic Habits", "author": "James Clear", "notes": "Big changes" },
+    { "title": "1984", "author": "George Orwell", "notes": "Dystopian future ki kahani" },
+    { "title": "Sapiens", "author": "Yuval Noah Harari", "notes": "Human history" },
+    { "title": "Rich Dad Poor Dad", "author": "Robert Kiyosaki", "notes": "understanding of money " }
+  ]
+}
