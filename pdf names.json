@@ -193,15 +193,6 @@
     ]
   },
   {
-    "library/New-islamic-books": [
-      "Kitab-At-Tauhid-The-Book-of-Monotheism-Sh.-Muhammad-bin-Abdul-Wahhab.pdf",
-      "Quran.pdf",
-      "Riyad-us-Saliheen.pdf",
-      "SahihAl-bukhariVol.1-Ahadith1-875.pdf",
-      "SahihMuslim-IslamicEnglishBook.pdf"
-    ]
-  },
-  {
     "library/islam/seerah": [
       "English_ArRaheeq_AlMakhtum_THE_SEALED_NECTAR 2.pdf"
     ]
@@ -231,7 +222,6 @@
       "BayahWalImaraah.pdf",
       "Beautiful patience (Tafsir of Surah yusuf) Part 1.pdf",
       "Beautiful patience (Tafsir of Surah yusuf) Part 2.pdf",
-      "Bulugh-al-Maram.pdf",
       "fazail_sadaqat.pdf",
       "fiqh_us_sunnah_zakat_fasting.pdf",
       "fortress_of_the_muslim.pdf",
@@ -242,18 +232,14 @@
       "Izhar_ul_Haq_[eng].pdf",
       "JonathanBrown_MisquotingMuhammad.pdf",
       "kamillah-khan-the-beautiful-names-of-allah-knowing-god-by-his-names.pdf",
-      "Kitab-At-Tauhid-The-Book-of-Monotheism-Sh.-Muhammad-bin-Abdul-Wahhab.pdf",
       "lie hereafter.pdf",
       "MuhammadAsad_TheRoadToMecca.pdf",
       "Purification-of-the-Heart.pdf",
       "Quran_EnglishOnly_Pickthall.pdf",
-      "Quran.pdf",
       "ramadan.pdf",
       "Riyad-us-Saliheen.pdf",
       "sahih-al-bukhari-volume-3-ahadith-1773-2737.pdf",
-      "SahihAl-bukhariVol.1-Ahadith1-875.pdf",
       "SahihAl-bukhariVol.2-Ahadith876-1772.pdf",
-      "SahihMuslim-IslamicEnglishBook.pdf",
       "SeyyedHosseinNasr_IdealsAndRealitiesOfIslam.pdf",
       "Shaykh Abu  Abbas al Mursi.pdf",
       "surah_19_maryam_urdu_tarjuma.pdf",
@@ -266,6 +252,15 @@
       "Usool_ath_thalātha_by_Shaykh_Abu_Bara'a_as_Sayf_حفظه.pdf",
       "yusuf_ali_transliteration.pdf",
       "zakat.pdf"
+    ]
+  },
+  {
+    "library/New-islamic-books": [
+      "Bulugh-al-Maram.pdf",
+      "Kitab-At-Tauhid-The-Book-of-Monotheism-Sh.-Muhammad-bin-Abdul-Wahhab.pdf",
+      "Quran.pdf",
+      "SahihAl-bukhariVol.1-Ahadith1-875.pdf",
+      "SahihMuslim-IslamicEnglishBook.pdf"
     ]
   },
   {
